@@ -1,0 +1,30 @@
+Date,Meal,Calories,Carbs,Fat,Protein,Weekday
+9/27/2015,Breakfast,385,65,7,18,Sunday
+9/27/2015,Lunch,290,38,7,18,Sunday
+9/27/2015,Dinner,336,35.4,12.3,20.5,Sunday
+9/27/2015,Afternoon Snack,71,17.1,29.4,4,Sunday
+9/27/2015,Evening Snack,322,19,0.2,0.3,Sunday
+9/28/2015,Breakfast,375,73.9,6.3,11.2,Monday
+9/28/2015,Lunch,360,73.9,4.8,11,Monday
+9/28/2015,Dinner,424,73.7,10.7,15.8,Monday
+9/28/2015,Afternoon Snack,80,9,0,12,Monday
+9/28/2015,Evening Snack,244,7.6,0,0.2,Monday
+9/29/2015,Breakfast,345,72.9,3.8,10.2,Tuesday
+9/29/2015,Lunch,341,61,5.2,12.3,Tuesday
+9/29/2015,Dinner,461,73,8.2,22.6,Tuesday
+9/29/2015,Afternoon Snack,402,25.1,29.4,16,Tuesday
+9/29/2015,Evening Snack,244,7.6,0,0.2,Tuesday
+9/30/2015,Breakfast,345,72.9,3.8,10.2,Wednesday
+9/30/2015,Lunch,313,67.2,3.7,6.8,Wednesday
+9/30/2015,Dinner,312,62.7,4,8,Wednesday
+9/30/2015,Afternoon Snack,80,9,0,12,Wednesday
+9/30/2015,Evening Snack,192,0,0,0,Wednesday
+10/1/2015,Breakfast,345,72.9,3.8,10.2,Thursday
+10/1/2015,Lunch,290,38,7,18,Thursday
+10/1/2015,Dinner,577,77.7,13.4,39.5,Thursday
+10/1/2015,Afternoon Snack,579,49.1,29.4,16,Thursday
+10/1/2015,Evening Snack,128,0,0,0,Thursday
+10/2/2015,Breakfast,345,72.9,3.8,10.2,Friday
+10/2/2015,Lunch,983,101.6,37.8,34.5,Friday
+10/3/2015,Breakfast,345,72.9,3.8,10.2,Saturday
+10/3/2015,Lunch,320,3,10,13,Saturday

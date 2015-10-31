@@ -1,0 +1,99 @@
+svg{
+	display: block;
+	margin: auto;
+	text-align: center;
+	fill: rgb(150, 150, 150);
+}
+
+.bar {
+  fill: red;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(150, 150, 150, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(150, 150, 150, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -3px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+.legend {
+	font-family: cambria;
+	font-size: 18px;
+	color: rgb(150,150,150);
+	width: 400px
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: gray;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: cambria;
+    font-size: 14px;
+	fill: gray;
+}
+
+body{
+	height: 50px;
+	width: 1200px;
+    font-family: cambria;
+	font-size: 20px;
+	text-align: center;
+	color: rgb(150,150,150);
+}
+
+h2{
+	font-family: cambria;
+	font-size: 20px;
+	text-align: center;
+	color: rgb(150,150,150);
+}
+h3{
+	font-family: cambria;
+	font-size: 20px;
+	text-align: center;
+	color: rgb(150,150,150);
+}
+
+p{
+	font-family: cambria;
+	font-size: 14px;
+	text-align: center;
+	color: rgb(150,150,150);	
+}
+
+form {
+  right: 10px;
+  top: 10px;
+  font-family: cambria;
+  font-size: 14px;
+  text-align: center;
+  color: rgb(150,150,150);
+  height: 50px;
+  width: 1200px;  
+}
